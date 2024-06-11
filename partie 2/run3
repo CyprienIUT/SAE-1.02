@@ -1,0 +1,4 @@
+#! /bin/bash
+
+gcc -o Resolution_2v2 -Wall -Werror -lm Resolution_2v2.c && ./Resolution_2v2
+rm Resolution_2v2

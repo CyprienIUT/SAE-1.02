@@ -1,0 +1,4 @@
+#! /bin/bash
+
+gcc -o Resolution_2 -Wall -Werror -lm Resolution_2.c && ./Resolution_2
+rm Resolution_2

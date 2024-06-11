@@ -1,0 +1,4 @@
+#! /bin/bash
+
+gcc -o ELIMINATION_Version2 -Wall -Werror -lm ELIMINATION_Version2.c && ./ELIMINATION_Version2
+rm ELIMINATION_Version2
